@@ -39,7 +39,9 @@ puts result
 - **Site**: [barcodefyi.com](https://barcodefyi.com)
 - **API**: [barcodefyi.com/api/v1/](https://barcodefyi.com/api/v1/)
 - **OpenAPI**: [barcodefyi.com/api/v1/schema/](https://barcodefyi.com/api/v1/schema/)
-
+- **Glossary**: [barcodefyi.com/glossary/](https://barcodefyi.com/glossary/)
+- **Guides**: [barcodefyi.com/guides/](https://barcodefyi.com/guides/)
+- **Tools**: [barcodefyi.com/tools/](https://barcodefyi.com/tools/)
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
 ## Tag FYI Family
